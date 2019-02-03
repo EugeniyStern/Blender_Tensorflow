@@ -1,4 +1,4 @@
-The first and most important issue is - tensorflow and blender run on different pythons, different versions, different environment. Don't try to put them into one programm!
+The first and most important issue is - tensorflow and blender run on different pythons, different versions, different environment. Don't try to put them into one programm! Or try (no my case) - https://youtu.be/DSU1Q-utQ_w
 This repository is old and will be replaced soon with other example.
 I use eclipse + pydev for Blender and Tensorflow scripts. 
 This is the trick I use for Blender: https://www.youtube.com/watch?v=gUm1coolop0 (https://www.youtube.com/results?search_query=debug+blender+python+)
